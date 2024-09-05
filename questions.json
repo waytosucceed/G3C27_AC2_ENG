@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence should come first in a story about making a sandwich?",
+        "options": [
+            "Put the cheese on the bread.",
+            "Eat the sandwich.",
+            "Get two slices of bread.",
+            "Close the sandwich."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which sentence should come last in a story about planting a seed?",
+        "options": [
+            "Water the soil.",
+            "Dig a small hole.",
+            "Watch the plant grow.",
+            "Put the seed in the hole."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence should come first in a story about baking cookies?",
+        "options": [
+            "Put the cookies in the oven.",
+            "Mix the ingredients.",
+            "Eat the cookies.",
+            "Get the ingredients ready."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "What is the main idea of this group of sentences? <ul><li>Dogs have fur.</li> <li>Dogs bark.</li> <li>Dogs wag their tails.</li> <li>Dogs like to play fetch.</li></ul>",
+        "options": [
+            "Dogs have different features.",
+            "Dogs are good pets.",
+            "Dogs are smart.",
+            "Dogs like to eat bones."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence doesn't belong with the others?",
+        "options": [
+            "Apples are red or green.",
+            "Apples grow on trees.",
+            "Apples are a healthy snack.",
+            "Apples can swim in water."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which is an example of narrative writing?",
+        "options": [
+            "How to make a paper aeroplane",
+            "Why the sky is blue",
+            "The day I lost my tooth",
+            "Parts of a flower"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which of the following is expository writing?",
+        "options": [
+            "Once upon a time, there was a brave knight.",
+            "Frogs start as eggs, then become tadpoles before growing into frogs.",
+            "I had the best birthday party ever last week.",
+            "The monster under my bed was very scary."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Choose the correct spelling: ",
+        "options": [
+            "Capeetal cite",
+            "Captal city",
+            "Capital city",
+            "Capitel citee"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which sentence is part of a narrative?",
+        "options": [
+            "Suddenly, I heard a loud crash!",
+            "The sun rises in the east.",
+            "Elephants have long trunks.",
+            "Water freezes at 0 degrees Celsius."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "What type of writing tells a story?",
+        "options": [
+            "Narrative",
+            "Expository",
+            "Instructional",
+            "Factual"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "What type of writing would you use to explain how to make a sandwich?",
+        "options": [
+            "Narrative",
+            "Expository",
+            "Poetry",
+            "Mystery"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which is an example of narrative writing?",
+        "options": [
+            "How plants grow",
+            "The parts of a bicycle",
+            "Features of computer",
+            "My exciting trip to the zoo"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which sentence is likely from an expository paragraph?",
+        "options": [
+            "The wizard cast a powerful spell.",
+            "I couldn't believe what happened next!",
+            "Penguins are birds that cannot fly.",
+            "Once upon a time, in a far-off land..."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which group of words should come first in a sentence?",
+        "options": [
+            "ran quickly",
+            "The dog",
+            "in the park",
+            "and barked"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "<B>What is the main idea of this paragraph?</B><br> \"Bees are important insects. They help flowers grow by spreading pollen. Bees also make honey that we can eat.\"",
+        "options": [
+            "Bees are yellow and black.",
+            "Bees are dangerous.",
+            "Bees are helpful insects.",
+            "Bees live in hives."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Order these sentences about brushing teeth:<ol><li> Rinse your mouth.</li><li> Put toothpaste on your brush.</li><li> Brush for two minutes.</li><li> Wet your toothbrush.</li></ol> What is the correct order?",
+        "options": [
+            "4, 2, 3, 1",
+            "2, 4, 1, 3",
+            "3, 1, 4, 2",
+            "1, 3, 2, 4"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "What's the correct order for these sentences about going to bed?<ol><li>Put on pyjamas.</li><li> Brush teeth.</li><li> Get into bed.</li><li> Say goodnight.</li></ol>",
+        "options": [
+            "1, 2, 3, 4",
+            "2, 1, 4, 3",
+            "3, 4, 1, 2",
+            "4, 3, 2, 1"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Put these sentences in order: <ol><li>Add sauce and cheese.</li><li> Bake the pizza.</li><li> Roll out the dough.</li><li> Eat and enjoy!</li></ol>",
+        "options": [
+            "3, 1, 2, 4",
+            "2, 4, 1, 3",
+            "1, 3, 2, 4",
+            "4, 2, 3, 1"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Choose the correct spelling:",
+        "options": [
+            "Entilgent",
+            "Intelligent",
+            "Intiligent",
+            "Inteligent"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "<B>Choose the incorrect spelling from the sentence:</B><BR>\"The butterfly flaped its wings and flew over the garden.\"",
+        "options": [
+            "Butterfly ",
+            "Flaped",
+            "Flew",
+            "Garden"
+        ],
+        "correct": 1
+    }
+]
